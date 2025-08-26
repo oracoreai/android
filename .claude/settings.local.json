@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir)",
+      "Bash(gradlew.bat assembleDebug:*)",
+      "Bash(dir:*)",
+      "Bash(.gradlew.bat tasks)",
+      "Bash(cmd /c:*)",
+      "Bash(move:*)",
+      "Bash(for dir in xhdpi xxhdpi xxxhdpi)",
+      "Bash(do cp \"C:\\git\\android-app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.xml\" \"C:\\git\\android-app\\app\\src\\main\\res\\mipmap-$dir\\ic_launcher.xml\")",
+      "Bash(done)",
+      "Read(/C:\\Users\\tchap\\AndroidStudioProjects\\OraCoreAIApp2\\app\\src\\main/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

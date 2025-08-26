@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tchap\\.gradle\\daemon\\8.13\\com.webviewapp-mergeDebugResources-65:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tchap\\.gradle\\daemon\\8.13\\com.webviewapp-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tchap\\.gradle\\daemon\\8.13\\com.webviewapp-mergeDebugResources-65:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\tchap\\.gradle\\daemon\\8.13\\com.webviewapp-main-68:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.webviewapp-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.webviewapp-main-68:/layout/activity_main.xml"
+    }
+]

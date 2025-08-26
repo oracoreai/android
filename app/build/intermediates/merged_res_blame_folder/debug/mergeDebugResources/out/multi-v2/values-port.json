@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.webviewapp-mergeDebugResources-64:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\363b79206481809853cf230c155f25c2\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+com.webviewapp.test.app-core-1.5.0-0 C:\Users\tchap\.gradle\caches\8.13\transforms\e27bbbc985a8afe769f89ea89c51e299\transformed\core-1.5.0\res
+com.webviewapp.test.app-annotation-experimental-1.3.0-1 C:\Users\tchap\.gradle\caches\8.13\transforms\f5ab4f4e66f3106f6381ee403d071fee\transformed\annotation-experimental-1.3.0\res
+com.webviewapp.test.app-androidTest-2 C:\git\android-app\app\build\generated\res\resValues\androidTest\debug
+com.webviewapp.test.app-mergeDebugAndroidTestResources-3 C:\git\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.webviewapp.test.app-mergeDebugAndroidTestResources-4 C:\git\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.webviewapp.test.app-debugAndroidTest-5 C:\git\android-app\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

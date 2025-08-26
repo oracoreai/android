@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/primary"/>
+    <foreground>
+        <vector android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108">
+            
+            <!-- Microphone body (centered and scaled) -->
+            <path
+                android:pathData="M54,28c6,0 11,5 11,11v22c0,6 -5,11 -11,11s-11,-5 -11,-11v-22c0,-6 5,-11 11,-11z"
+                android:strokeColor="#00E5FF"
+                android:strokeWidth="3"
+                android:fillColor="@android:color/transparent"/>
+            
+            <!-- Microphone stand -->
+            <path
+                android:pathData="M54,72v12M42,84h24"
+                android:strokeColor="#00E5FF"
+                android:strokeWidth="3"
+                android:strokeLineCap="round"/>
+            
+            <!-- Sound waves -->
+            <path
+                android:pathData="M72,42h8M72,48h12M72,54h8M72,60h12"
+                android:strokeColor="#00E5FF"
+                android:strokeWidth="3"
+                android:strokeLineCap="round"/>
+        </vector>
+    </foreground>
+</adaptive-icon>
