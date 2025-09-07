@@ -10,194 +10,194 @@
 10
 11    <!-- Internet permission for WebView -->
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:6:5-67
-12-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:6:22-64
+12-->C:\git\android\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\git\android\app\src\main\AndroidManifest.xml:6:22-64
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:7:5-79
-13-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:7:22-76
+13-->C:\git\android\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\git\android\app\src\main\AndroidManifest.xml:7:22-76
 14
 15    <!-- Biometric permission -->
 16    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-16-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:10:5-72
-16-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:10:22-69
+16-->C:\git\android\app\src\main\AndroidManifest.xml:10:5-72
+16-->C:\git\android\app\src\main\AndroidManifest.xml:10:22-69
 17
 18    <!-- Wake lock permission for keep-alive behavior -->
 19    <uses-permission android:name="android.permission.WAKE_LOCK" />
-19-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:13:5-68
-19-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:13:22-65
+19-->C:\git\android\app\src\main\AndroidManifest.xml:13:5-68
+19-->C:\git\android\app\src\main\AndroidManifest.xml:13:22-65
 20
 21    <!-- Foreground service permission for Android 9+ -->
 22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-22-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:16:5-77
-22-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:16:22-74
+22-->C:\git\android\app\src\main\AndroidManifest.xml:16:5-77
+22-->C:\git\android\app\src\main\AndroidManifest.xml:16:22-74
 23
 24    <!-- Battery optimization permissions -->
 25    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
-25-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:19:5-95
-25-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:19:22-92
+25-->C:\git\android\app\src\main\AndroidManifest.xml:19:5-95
+25-->C:\git\android\app\src\main\AndroidManifest.xml:19:22-92
 26
 27    <!-- Audio background permissions -->
 28    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
-28-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:22:5-88
-28-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:22:22-85
+28-->C:\git\android\app\src\main\AndroidManifest.xml:22:5-88
+28-->C:\git\android\app\src\main\AndroidManifest.xml:22:22-85
 29    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS" />
-29-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:23:5-85
-29-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:23:22-82
+29-->C:\git\android\app\src\main\AndroidManifest.xml:23:5-85
+29-->C:\git\android\app\src\main\AndroidManifest.xml:23:22-82
 30
 31    <!-- Optional permissions that MainActivity requests -->
 32    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-32-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:26:5-71
-32-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:26:22-68
+32-->C:\git\android\app\src\main\AndroidManifest.xml:26:5-71
+32-->C:\git\android\app\src\main\AndroidManifest.xml:26:22-68
 33    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-33-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:27:5-80
-33-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:27:22-77
+33-->C:\git\android\app\src\main\AndroidManifest.xml:27:5-80
+33-->C:\git\android\app\src\main\AndroidManifest.xml:27:22-77
 34    <uses-permission android:name="android.permission.MICROPHONE" />
-34-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:28:5-69
-34-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:28:22-66
+34-->C:\git\android\app\src\main\AndroidManifest.xml:28:5-69
+34-->C:\git\android\app\src\main\AndroidManifest.xml:28:22-66
 35    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-35-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:29:5-80
-35-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:29:22-77
+35-->C:\git\android\app\src\main\AndroidManifest.xml:29:5-80
+35-->C:\git\android\app\src\main\AndroidManifest.xml:29:22-77
 36
 37    <uses-feature android:name="android.hardware.audio.low_latency" />
-37-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:30:5-71
-37-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:30:19-68
+37-->C:\git\android\app\src\main\AndroidManifest.xml:30:5-71
+37-->C:\git\android\app\src\main\AndroidManifest.xml:30:19-68
 38    <uses-feature android:name="android.hardware.audio.pro" />
-38-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:31:5-63
-38-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:31:19-60
+38-->C:\git\android\app\src\main\AndroidManifest.xml:31:5-63
+38-->C:\git\android\app\src\main\AndroidManifest.xml:31:19-60
 39    <uses-feature android:name="android.hardware.microphone" />
-39-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:32:5-63
-39-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:32:19-61
+39-->C:\git\android\app\src\main\AndroidManifest.xml:32:5-63
+39-->C:\git\android\app\src\main\AndroidManifest.xml:32:19-61
 40
 41    <!-- suppress DeprecatedClassUsageInspection -->
 42    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-42-->[androidx.biometric:biometric:1.1.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f59cff58012388b700aff45430ce3b20\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
-42-->[androidx.biometric:biometric:1.1.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f59cff58012388b700aff45430ce3b20\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71
+42-->[androidx.biometric:biometric:1.1.0] C:\Users\tchap\.gradle\caches\8.13\transforms\40dae8f25cde327c6a8df1501292fa2d\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+42-->[androidx.biometric:biometric:1.1.0] C:\Users\tchap\.gradle\caches\8.13\transforms\40dae8f25cde327c6a8df1501292fa2d\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71
 43
 44    <permission
-44-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\31414a755594fdba3fe8a042ff2d1d6f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+44-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6253bc64cc8c46ebf68daa9f68251cdb\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 45        android:name="com.example.oracoreaiapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-45-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\31414a755594fdba3fe8a042ff2d1d6f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+45-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6253bc64cc8c46ebf68daa9f68251cdb\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 46        android:protectionLevel="signature" />
-46-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\31414a755594fdba3fe8a042ff2d1d6f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+46-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6253bc64cc8c46ebf68daa9f68251cdb\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 47
 48    <uses-permission android:name="com.example.oracoreaiapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-48-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\31414a755594fdba3fe8a042ff2d1d6f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
-48-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\31414a755594fdba3fe8a042ff2d1d6f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+48-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6253bc64cc8c46ebf68daa9f68251cdb\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+48-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6253bc64cc8c46ebf68daa9f68251cdb\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 49
 50    <application
-50-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:34:5-59:19
+50-->C:\git\android\app\src\main\AndroidManifest.xml:34:5-59:19
 51        android:allowBackup="true"
-51-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:35:9-35
+51-->C:\git\android\app\src\main\AndroidManifest.xml:35:9-35
 52        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-52-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\31414a755594fdba3fe8a042ff2d1d6f\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+52-->[androidx.core:core:1.12.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6253bc64cc8c46ebf68daa9f68251cdb\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 53        android:debuggable="true"
 54        android:extractNativeLibs="false"
 55        android:icon="@mipmap/ic_launcher"
-55-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:36:9-43
+55-->C:\git\android\app\src\main\AndroidManifest.xml:36:9-43
 56        android:label="@string/app_name"
-56-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:37:9-41
+56-->C:\git\android\app\src\main\AndroidManifest.xml:37:9-41
 57        android:testOnly="true"
-58        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
-58-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:38:9-67
+58        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+58-->C:\git\android\app\src\main\AndroidManifest.xml:38:9-65
 59        android:usesCleartextTraffic="true" >
-59-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:39:9-44
+59-->C:\git\android\app\src\main\AndroidManifest.xml:39:9-44
 60        <activity
-60-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:41:9-50:20
+60-->C:\git\android\app\src\main\AndroidManifest.xml:41:9-50:20
 61            android:name="com.example.oracoreaiapp.MainActivity"
-61-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:42:13-41
+61-->C:\git\android\app\src\main\AndroidManifest.xml:42:13-41
 62            android:configChanges="orientation|keyboardHidden|screenSize"
-62-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:43:13-74
+62-->C:\git\android\app\src\main\AndroidManifest.xml:43:13-74
 63            android:exported="true"
-63-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:45:13-36
+63-->C:\git\android\app\src\main\AndroidManifest.xml:45:13-36
 64            android:launchMode="singleTop" >
-64-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:44:13-43
+64-->C:\git\android\app\src\main\AndroidManifest.xml:44:13-43
 65            <intent-filter>
-65-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:46:13-49:29
+65-->C:\git\android\app\src\main\AndroidManifest.xml:46:13-49:29
 66                <action android:name="android.intent.action.MAIN" />
-66-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:47:17-69
-66-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:47:25-66
+66-->C:\git\android\app\src\main\AndroidManifest.xml:47:17-69
+66-->C:\git\android\app\src\main\AndroidManifest.xml:47:25-66
 67
 68                <category android:name="android.intent.category.LAUNCHER" />
-68-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:48:17-77
-68-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:48:27-74
+68-->C:\git\android\app\src\main\AndroidManifest.xml:48:17-77
+68-->C:\git\android\app\src\main\AndroidManifest.xml:48:27-74
 69            </intent-filter>
 70        </activity>
 71
 72        <!-- Foreground service to keep app alive -->
 73        <service
-73-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:53:9-57:67
+73-->C:\git\android\app\src\main\AndroidManifest.xml:53:9-57:67
 74            android:name="com.example.oracoreaiapp.WebViewService"
-74-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:54:13-43
+74-->C:\git\android\app\src\main\AndroidManifest.xml:54:13-43
 75            android:enabled="true"
-75-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:55:13-35
+75-->C:\git\android\app\src\main\AndroidManifest.xml:55:13-35
 76            android:exported="false"
-76-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:56:13-37
+76-->C:\git\android\app\src\main\AndroidManifest.xml:56:13-37
 77            android:foregroundServiceType="dataSync|microphone" />
-77-->C:\git\OraCoreAIApp\app\src\main\AndroidManifest.xml:57:13-64
+77-->C:\git\android\app\src\main\AndroidManifest.xml:57:13-64
 78
 79        <provider
-79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 80            android:name="androidx.startup.InitializationProvider"
-80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 81            android:authorities="com.example.oracoreaiapp.androidx-startup"
-81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 82            android:exported="false" >
-82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 83            <meta-data
-83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 85                android:value="androidx.startup" />
-85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\6fe546471946bdf8bc9c87a7a1cd2bbd\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tchap\.gradle\caches\8.13\transforms\ac7195bb4759f20694af22611f202ae7\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 86            <meta-data
-86-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tchap\.gradle\caches\8.13\transforms\a7965b027b7dbad9b295e8491f90bb5a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+86-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tchap\.gradle\caches\8.13\transforms\191106f422762c27b396eb86c51b4ae6\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
 87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-87-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tchap\.gradle\caches\8.13\transforms\a7965b027b7dbad9b295e8491f90bb5a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+87-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tchap\.gradle\caches\8.13\transforms\191106f422762c27b396eb86c51b4ae6\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
 88                android:value="androidx.startup" />
-88-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tchap\.gradle\caches\8.13\transforms\a7965b027b7dbad9b295e8491f90bb5a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+88-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tchap\.gradle\caches\8.13\transforms\191106f422762c27b396eb86c51b4ae6\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
 89            <meta-data
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
 90                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
 91                android:value="androidx.startup" />
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
 92        </provider>
 93
 94        <receiver
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
 95            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
 96            android:directBootAware="false"
-96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
 97            android:enabled="true"
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
 98            android:exported="true"
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
 99            android:permission="android.permission.DUMP" >
-99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 100            <intent-filter>
-100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
 101                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 102            </intent-filter>
 103            <intent-filter>
-103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
 104                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 105            </intent-filter>
 106            <intent-filter>
-106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
 107                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 108            </intent-filter>
 109            <intent-filter>
-109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
 110                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\2e1249e2e976a575089a130f75f11d3e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tchap\.gradle\caches\8.13\transforms\f8277acbd290404caeb6520eabb5514d\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
 111            </intent-filter>
 112        </receiver>
 113    </application>

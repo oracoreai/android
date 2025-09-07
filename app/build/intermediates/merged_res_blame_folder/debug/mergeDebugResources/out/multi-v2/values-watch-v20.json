@@ -4,7 +4,7 @@
             "outputFile": "com.example.oracoreaiapp-mergeDebugResources-32:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\8ecac64d6294d94b7b5a863b6e3c4ab2\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\e82eefda8e1ad7be3ac9aee2753ed4ba\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

@@ -1,9 +1,9 @@
-#Sun Sep 07 16:29:36 MDT 2025
-base.0=C\:\\git\\OraCoreAIApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\git\\OraCoreAIApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\git\\OraCoreAIApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=C\:\\git\\OraCoreAIApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.4=C\:\\git\\OraCoreAIApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Sun Sep 07 17:10:32 MDT 2025
+base.0=C\:\\git\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\git\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\git\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\git\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.4=C\:\\git\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=11/classes.dex

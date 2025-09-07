@@ -4,7 +4,7 @@
             "outputFile": "com.example.oracoreaiapp-mergeDebugResources-32:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\73ceb3872f12289fd088e35cfb3c569c\\transformed\\material-1.10.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\fe16493dabf15527e7331238a2286a5d\\transformed\\material-1.10.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -4,7 +4,17 @@
             "outputFile": "com.example.oracoreaiapp-mergeDebugResources-32:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\8ecac64d6294d94b7b5a863b6e3c4ab2\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\6253bc64cc8c46ebf68daa9f68251cdb\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\e82eefda8e1ad7be3ac9aee2753ed4ba\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\31414a755594fdba3fe8a042ff2d1d6f\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

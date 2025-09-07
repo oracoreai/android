@@ -4,7 +4,24 @@
             "outputFile": "com.example.oracoreaiapp-mergeDebugResources-32:/values-sl/values-sl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\31414a755594fdba3fe8a042ff2d1d6f\\transformed\\core-1.12.0\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\40dae8f25cde327c6a8df1501292fa2d\\transformed\\biometric-1.1.0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,253,374,512,642,768,893,1033,1132,1275,1409",
+                        "endColumns": "106,90,120,137,129,125,124,139,98,142,133,132",
+                        "endOffsets": "157,248,369,507,637,763,888,1028,1127,1270,1404,1537"
+                    },
+                    "to": {
+                        "startLines": "50,51,54,55,56,57,58,59,60,61,62,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4651,4758,5009,5130,5268,5398,5524,5649,5789,5888,6031,6165",
+                        "endColumns": "106,90,120,137,129,125,124,139,98,142,133,132",
+                        "endOffsets": "4753,4844,5125,5263,5393,5519,5644,5784,5883,6026,6160,6293"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\6253bc64cc8c46ebf68daa9f68251cdb\\transformed\\core-1.12.0\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\73ceb3872f12289fd088e35cfb3c569c\\transformed\\material-1.10.0\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\fe16493dabf15527e7331238a2286a5d\\transformed\\material-1.10.0\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,24 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\f59cff58012388b700aff45430ce3b20\\transformed\\biometric-1.1.0\\res\\values-sl\\values-sl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,162,253,374,512,642,768,893,1033,1132,1275,1409",
-                        "endColumns": "106,90,120,137,129,125,124,139,98,142,133,132",
-                        "endOffsets": "157,248,369,507,637,763,888,1028,1127,1270,1404,1537"
-                    },
-                    "to": {
-                        "startLines": "50,51,54,55,56,57,58,59,60,61,62,63",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4651,4758,5009,5130,5268,5398,5524,5649,5789,5888,6031,6165",
-                        "endColumns": "106,90,120,137,129,125,124,139,98,142,133,132",
-                        "endOffsets": "4753,4844,5125,5263,5393,5519,5644,5784,5883,6026,6160,6293"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\8ecac64d6294d94b7b5a863b6e3c4ab2\\transformed\\appcompat-1.6.1\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\e82eefda8e1ad7be3ac9aee2753ed4ba\\transformed\\appcompat-1.6.1\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
