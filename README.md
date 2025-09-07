@@ -1,6 +1,6 @@
-# Android WebView App with Biometric Authentication
+# OraCore AI with Biometric Authentication for Android
 
-A native Android application that wraps a website with biometric authentication capabilities.
+A native Android application for OraCore AI with biometric authentication capabilities.
 
 ## Features
 
