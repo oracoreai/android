@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.webviewapp-mergeDebugResources-64:/values-v26/values-v26.xml",
+            "outputFile": "com.example.oracoreaiapp-mergeDebugResources-32:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\363b79206481809853cf230c155f25c2\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\8ecac64d6294d94b7b5a863b6e3c4ab2\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

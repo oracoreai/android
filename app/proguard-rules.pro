@@ -19,15 +19,3 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
-
-# Keep WebView JavaScript interface
--keepclassmembers class * {
-    @android.webkit.JavascriptInterface <methods>;
-}
-
-# Keep WebView related classes
--keep class android.webkit.** { *; }
--keep class androidx.webkit.** { *; }
-
-# Keep biometric related classes
--keep class androidx.biometric.** { *; }

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.webviewapp-mergeDebugResources-64:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "outputFile": "com.example.oracoreaiapp-mergeDebugResources-32:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\74d15d3178219b4f53a3c83c17380305\\transformed\\material-1.11.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\tchap\\.gradle\\caches\\8.13\\transforms\\73ceb3872f12289fd088e35cfb3c569c\\transformed\\material-1.10.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
